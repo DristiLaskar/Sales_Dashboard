@@ -38,9 +38,7 @@ This page focuses on top-line revenue, customer behavior, and sales performance 
 
 This page dives deeper into profitability, analyzing profit margins, and identifying the most and least profitable areas of the business.
 
-<p align="center">
-  <img src="Screenshot 2025-10-23 201951.png" alt="Profit Analysis Dashboard" width="90%">
-</p>
+
 
 ---
 
